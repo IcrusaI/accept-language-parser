@@ -1,5 +1,5 @@
 {
-  "name": "accept-language-parser",
+  "name": "header-accept-language-parser",
   "version": "1.0.0",
   "description": "Parse the accept-language header from a HTTP request",
   "main": "index.js",
@@ -16,6 +16,6 @@
     "url": "https://github.com/IcrusaI/accept-language-parser/issues"
   },
   "homepage": "https://github.com/IcrusaI/accept-language-parser",
-  "author": "Artem Bazheno <artembazhenov2000@gmail.com>",
+  "author": "Artem Bazhenov <artembazhenov2000@gmail.com>",
   "license": "MIT"
 }
